@@ -1,0 +1,70 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: solid 1px black;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+.container{
+  padding-bottom: 10px;
+}
+
+.hero {
+  height: 200px;
+}
+
+.hero-title {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.title {
+  width: 40%;
+  margin-top: -40px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 50px;
+}
+
+.title p {
+  text-align: center;
+}
+
+.button {
+  width: 25%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.button p {
+  text-align: center;
+}
+
+.terms {
+  width: 15%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.terms p {
+  text-align: center;
+}
+
+.messages {
+  width: 25%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.message {
+  padding: 10px;
+}
