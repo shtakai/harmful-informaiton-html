@@ -1,4 +1,4 @@
-Ru-bu said before being kilked..
+Lu-bu said before being killed..
 
 ```
 Because we forget about how to breathe it leads to death, so we have to remember it several times a year.
